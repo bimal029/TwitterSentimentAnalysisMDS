@@ -1,0 +1,7 @@
+pymongo
+nltk
+pyspark
+matplotlib
+seaborn
+scikit-learn
+streamlit
