@@ -6,3 +6,4 @@ if __name__ == '__main__':
     data = extract_data()
     clean_data = transform_data(data)
     load_to_mongo(clean_data)
+
